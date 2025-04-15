@@ -1,0 +1,1 @@
+The FLIX-TIX cinema application, developed using JavaFX, is designed to offer users a smooth and intuitive experience for browsing available movies and booking tickets. Users can select their preferred movie and choose a suitable date and time for their cinema visit.
